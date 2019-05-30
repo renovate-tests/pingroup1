@@ -11,6 +11,7 @@
         groupName: 'left related packages',
         groupSlug: 'left',
         enabled: true,
-      }
-    ]
+      },
+    ],
+      rangeStrategy: 'pin'
 }
