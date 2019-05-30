@@ -1,0 +1,16 @@
+{
+  "packageRules": [
+        {
+        packagePatterns: ['chalk'],
+        groupName: 'chalk related packages',
+        groupSlug: 'chalk',
+        enabled: true,
+      },
+      {
+        packagePatterns: ['left'],
+        groupName: 'left related packages',
+        groupSlug: 'left',
+        enabled: true,
+      },
+  }
+}
